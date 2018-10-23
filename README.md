@@ -2,6 +2,9 @@
 Snapshot of https://github.com/espressif/arduino-esp32 and https://github.com/nkolban/ESP32_BLE_Arduino used by pfodDesigner
 The copyright for those files are as specified in their respective githubs
 
+Note: this repository is out-of-date and GitHub will not accept the update (file >25Mb)
+Download zip from www.forward.com.au/pfod/ESP32/ESP32_hardware.zip
+
 # Installing the Arduino Support for the ESP32
 As at April 2018, installing the Arduino ESP32 support is more involved then for most other boards and the code libraries supplied are not complete. You cannot use the Arduino Board manager to install the ESP32 support. Follow these steps to setup Arduino for ESP32 programming
 
